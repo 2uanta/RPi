@@ -1,0 +1,8 @@
+# raspberry pi project
+# Reference: Raspberry Pi Cookbook - Chapter 9
+# Wiring diagram
+# 	GPIO pin 18 --> 10K Ohm resistor
+# 	10K Ohm resistor --> (+/anode longer pin) Red LED
+# 	(-/cathode shorter pin) Red LED --> GND
+# Description
+#
